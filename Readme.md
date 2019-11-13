@@ -23,7 +23,7 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`._
 Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
 
 #### 2. Создайте форк
-
+vbnkml;,'./\.,lmknbjhvhbjnkm
 Откройте репозиторий и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии будет скопирован в ваш аккаунт.
 
 <img width="767" alt="" src="https://user-images.githubusercontent.com/8537950/65957999-98951580-e44e-11e9-86dc-24c3186892b8.png">
